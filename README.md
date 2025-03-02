@@ -89,4 +89,4 @@ A Retrieval-Augmented Generation (RAG) application that allows you to upload PDF
 
 ## License
 
---
+This project is licensed under the MIT License. For more information, visit the [MIT License](https://opensource.org/licenses/MIT) or the [repository license page](https://github.com/Devcavi19/PDF-RAG-with-DeepSeekR1/blob/main/LICENSE).
